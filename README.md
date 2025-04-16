@@ -1,4 +1,4 @@
-## Hi there 👋
+Welcome to Thomas Aquarium Life
 
 <!--
 **thomas-aquarium-life/Thomas-Aquarium-Life** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
