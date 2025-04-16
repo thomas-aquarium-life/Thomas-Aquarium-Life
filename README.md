@@ -1,5 +1,5 @@
-                                                                     Welcome to Thomas Aquarium Life
-                                                                "Where we put the LIFE in your aquarium"
+                                                              Welcome to Thomas Aquarium Life
+                                                          "Where we put the LIFE in your aquarium"
 
 <!--
 **thomas-aquarium-life/Thomas-Aquarium-Life** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
